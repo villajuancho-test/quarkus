@@ -1,0 +1,7 @@
+### separar peticiones
+GET http://localhost:8080/juancho
+
+
+### separar peticiones
+GET http://localhost:8080/hello
+Content-Type: application/json
